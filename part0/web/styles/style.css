@@ -2,13 +2,12 @@ html{
     font-size: 10px;
     font-family: monospace;
     color: #f0f0f0;
-  background-color: #00539f;
+    background-color: #00539f;
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539f;
   text-shadow: 3px 3px 1px black;
 }
 
